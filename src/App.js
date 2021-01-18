@@ -68,6 +68,8 @@ function App() {
   return (
     <div>
       <h3>Read CSV file in React</h3>
+      <h4>Krupaa N</h4>
+      <h5>Please use .xlsx or .csv files<h5>
       <input
         type="file"
         accept=".csv,.xlsx,.xls"
